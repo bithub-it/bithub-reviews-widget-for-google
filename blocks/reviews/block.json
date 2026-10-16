@@ -1,0 +1,14 @@
+{
+  "apiVersion": 3,
+  "name": "bithub/reviews-widget",
+  "version": "1.0.0",
+  "title": "BitHub Reviews Widget",
+  "category": "widgets",
+  "icon": "star-filled",
+  "description": "Displays the review widget configured in BitHub Reviews.",
+  "textdomain": "bithub-reviews-widget-for-google",
+  "supports": {
+    "html": false,
+    "align": ["wide", "full"]
+  }
+}

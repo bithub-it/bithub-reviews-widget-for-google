@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BitHub Reviews Widget for Google 1.0.0\n"
+"Report-Msgid-Bugs-To: https://bithub.it/plugin-wordpress/\n"
+"POT-Creation-Date: 2026-08-22 12:45+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: bithub-reviews-widget-for-google\n"
+
+msgid "Connect a Google Maps business to the BitHub Reviews service and display its review widget with a shortcode or block."
+msgstr ""
+
+msgid "BitHub Reviews Widget"
+msgstr ""
+
+msgid "Displays the Google review widget configured in BitHub Reviews."
+msgstr ""
+
+msgid "The configured reviews widget will be displayed here on the front end."
+msgstr ""
+
+msgid "Configure a widget in Tools > BitHub Reviews before publishing this block."
+msgstr ""
+
+msgid "The BitHub Reviews service could not be reached. Please try again."
+msgstr ""
+
+msgid "The BitHub Reviews service returned an invalid response."
+msgstr ""
+
+msgid "The request could not be completed."
+msgstr ""
+
+msgid "When the BitHub Reviews Widget is configured, administrators explicitly send the selected Google Maps business URL or Place ID, an email address, a Google Places API key, the site language and widget preferences to the BitHub Reviews service. The public widget is then loaded from the BitHub service when a page containing the shortcode or block is viewed."
+msgstr ""
+
+msgid "Service documentation: <a href=\"%1$s\">%1$s</a>. BitHub privacy information: <a href=\"%2$s\">%2$s</a>."
+msgstr ""
+
+msgid "BitHub Reviews Widget for Google"
+msgstr ""
+
+msgid "BitHub Reviews"
+msgstr ""
+
+msgid "Working…"
+msgstr ""
+
+msgid "Business connected. Configure the widget and save it."
+msgstr ""
+
+msgid "Existing configuration loaded."
+msgstr ""
+
+msgid "Widget saved. You can now use the shortcode or block."
+msgstr ""
+
+msgid "Reviews refreshed."
+msgstr ""
+
+msgid "Local connection removed. Remote service data was not deleted."
+msgstr ""
+
+msgid "Remove the local connection from this WordPress site? The remote BitHub configuration will remain available."
+msgstr ""
+
+msgid "Copied!"
+msgstr ""
+
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+msgid "Please confirm that you understand which data is sent to the BitHub Reviews service."
+msgstr ""
+
+msgid "Enter the Google Places API key used for this business."
+msgstr ""
+
+msgid "Enter a Google Maps link or Place ID."
+msgstr ""
+
+msgid "Enter the Google Maps link, email address and Google Places API key."
+msgstr ""
+
+msgid "Open live widget"
+msgstr ""
+
+msgid "Reviews Widget"
+msgstr ""
+
+msgid "Google reviews, without copy-pasting embed code."
+msgstr ""
+
+msgid "Connect a business to the BitHub Reviews service, configure the display, then place it anywhere with a shortcode or Gutenberg block."
+msgstr ""
+
+msgid "Plugin documentation"
+msgstr ""
+
+msgid "Web configurator"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Connected widget"
+msgstr ""
+
+msgid "Google Maps business"
+msgstr ""
+
+msgid "Disconnect from this site"
+msgstr ""
+
+msgid "Insert it"
+msgstr ""
+
+msgid "Shortcode or Gutenberg block"
+msgstr ""
+
+msgid "Use the BitHub Reviews Widget block, or copy this shortcode into any page, post or widget area."
+msgstr ""
+
+msgid "Copy shortcode"
+msgstr ""
+
+msgid "Edit remote widget"
+msgstr ""
+
+msgid "Unlock with your Google Places API key"
+msgstr ""
+
+msgid "The API key is sent only for this request and is never stored by this WordPress plugin."
+msgstr ""
+
+msgid "Google Places API key"
+msgstr ""
+
+msgid "Unlock editor"
+msgstr ""
+
+msgid "Send management link by email"
+msgstr ""
+
+msgid "New widget"
+msgstr ""
+
+msgid "Connect your Google Maps business"
+msgstr ""
+
+msgid "Use the share link from the correct Google Maps business profile. The BitHub service resolves the Place ID and retrieves the reviews using your Places API key."
+msgstr ""
+
+msgid "Google Maps business link"
+msgstr ""
+
+msgid "Email address"
+msgstr ""
+
+msgid "I understand that these setup details are sent to the <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">BitHub Reviews service</a>."
+msgstr ""
+
+msgid "Connect and configure"
+msgstr ""
+
+msgid "Existing widget"
+msgstr ""
+
+msgid "Connect an existing BitHub configuration"
+msgstr ""
+
+msgid "Enter the Place ID or the same Maps URL used when the business was first configured, then unlock it with the original Google Places API key."
+msgstr ""
+
+msgid "Place ID or Google Maps link"
+msgstr ""
+
+msgid "I understand that this request is sent to the <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">BitHub Reviews service</a>."
+msgstr ""
+
+msgid "Load existing widget"
+msgstr ""
+
+msgid "Widget configuration"
+msgstr ""
+
+msgid "Reviews widget"
+msgstr ""
+
+msgid "The management token stays only in this browser page and is not saved in WordPress."
+msgstr ""
+
+msgid "Refresh reviews now"
+msgstr ""
+
+msgid "Save widget"
+msgstr ""
+
+msgid "Layout and filters"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Rating only"
+msgstr ""
+
+msgid "Maximum reviews"
+msgstr ""
+
+msgid "Minimum rating"
+msgstr ""
+
+msgid "Responsive visibility"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Review text"
+msgstr ""
+
+msgid "Show review text"
+msgstr ""
+
+msgid "Maximum text length"
+msgstr ""
+
+msgid "Show “Read more”"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Show author photo"
+msgstr ""
+
+msgid "Show author name"
+msgstr ""
+
+msgid "Shorten surname"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Show header"
+msgstr ""
+
+msgid "Show business name"
+msgstr ""
+
+msgid "Show average rating"
+msgstr ""
+
+msgid "Show total review count"
+msgstr ""
+
+msgid "Show “Write a review” button"
+msgstr ""
+
+msgid "Autoplay"
+msgstr ""
+
+msgid "Autoplay interval (ms)"
+msgstr ""
+
+msgid "Pause on hover"
+msgstr ""
+
+msgid "Show arrows"
+msgstr ""
+
+msgid "Show dots"
+msgstr ""
+
+msgid "Transition duration (ms)"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Star color"
+msgstr ""
+
+msgid "Text color"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Border"
+msgstr ""
+
+msgid "Shadow"
+msgstr ""
+
+msgid "Corner radius"
+msgstr ""
+
+msgid "Ready to publish"
+msgstr ""
+
+msgid "Add the BitHub Reviews Widget block or use:"
+msgstr ""
+
+msgid "External service disclosure"
+msgstr ""
+
+msgid "This plugin is an interface to the BitHub Reviews service. During setup and management, the service receives the business link or Place ID, email, Google Places API key, language and widget configuration. On public pages containing the widget, the browser loads the widget JavaScript from extractor.able2code.com."
+msgstr ""
+
+msgid "Service documentation"
+msgstr ""
+
+msgid "BitHub privacy information"
+msgstr ""
+
+msgid "Please confirm the external service disclosure."
+msgstr ""
+
+msgid "Check the Google Maps link, email address and API key."
+msgstr ""
+
+msgid "Enter a Place ID or Maps link and the original Google Places API key."
+msgstr ""
+
+msgid "No BitHub Reviews configuration was found for that business."
+msgstr ""
+
+msgid "The editor session is incomplete. Unlock the widget again and retry."
+msgstr ""
+
+msgid "The widget identifier is not valid."
+msgstr ""
+
+msgid "Unlock the widget again before refreshing reviews."
+msgstr ""
+
+msgid "No connected business was found."
+msgstr ""
+
+msgid "You are not allowed to manage this widget."
+msgstr ""
+
+msgid "This business is already configured in BitHub Reviews. Use the existing-widget form instead."
+msgstr ""
+
+msgid "No BitHub Reviews configuration was found for this business."
+msgstr ""
+
+msgid "The Google Places API key does not match the saved configuration."
+msgstr ""
+
+msgid "The editor session has expired. Unlock the widget again."
+msgstr ""
+
+msgid "The editor session is missing. Unlock the widget again."
+msgstr ""
+
+msgid "The editor session does not belong to this business."
+msgstr ""
+
+msgid "The remote widget was not found."
+msgstr ""
+
+msgid "Email management is temporarily unavailable on the BitHub service."
+msgstr ""
+
+msgid "The management email could not be sent. Please try again later."
+msgstr ""
+

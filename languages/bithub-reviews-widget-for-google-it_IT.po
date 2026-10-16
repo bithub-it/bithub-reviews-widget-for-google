@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BitHub Reviews Widget for Google 1.0.0\n"
+"Report-Msgid-Bugs-To: https://bithub.it/plugin-wordpress/\n"
+"POT-Creation-Date: 2026-08-22 12:45+0200\n"
+"PO-Revision-Date: 2026-08-22 12:45+0200\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: bithub-reviews-widget-for-google\n"
+
+msgid "Connect a Google Maps business to the BitHub Reviews service and display its review widget with a shortcode or block."
+msgstr "Collega un’attività Google Maps al servizio BitHub Reviews e mostra il widget delle recensioni con uno shortcode o un blocco."
+
+msgid "BitHub Reviews Widget"
+msgstr "Widget recensioni BitHub"
+
+msgid "Displays the Google review widget configured in BitHub Reviews."
+msgstr "Mostra il widget delle recensioni Google configurato in BitHub Reviews."
+
+msgid "The configured reviews widget will be displayed here on the front end."
+msgstr "Il widget recensioni configurato verrà mostrato qui nel sito pubblico."
+
+msgid "Configure a widget in Tools > BitHub Reviews before publishing this block."
+msgstr "Configura un widget in Strumenti > BitHub Reviews prima di pubblicare questo blocco."
+
+msgid "The BitHub Reviews service could not be reached. Please try again."
+msgstr "Impossibile raggiungere il servizio BitHub Reviews. Riprova."
+
+msgid "The BitHub Reviews service returned an invalid response."
+msgstr "Il servizio BitHub Reviews ha restituito una risposta non valida."
+
+msgid "The request could not be completed."
+msgstr "Impossibile completare la richiesta."
+
+msgid "When the BitHub Reviews Widget is configured, administrators explicitly send the selected Google Maps business URL or Place ID, an email address, a Google Places API key, the site language and widget preferences to the BitHub Reviews service. The public widget is then loaded from the BitHub service when a page containing the shortcode or block is viewed."
+msgstr "Quando BitHub Reviews Widget viene configurato, gli amministratori inviano esplicitamente al servizio BitHub Reviews l’URL Google Maps o il Place ID dell’attività selezionata, un indirizzo email, una chiave API Google Places, la lingua del sito e le preferenze del widget. Il widget pubblico viene poi caricato dal servizio BitHub quando viene visualizzata una pagina che contiene lo shortcode o il blocco."
+
+msgid "Service documentation: <a href=\"%1$s\">%1$s</a>. BitHub privacy information: <a href=\"%2$s\">%2$s</a>."
+msgstr "Documentazione del servizio: <a href=\"%1$s\">%1$s</a>. Informativa privacy BitHub: <a href=\"%2$s\">%2$s</a>."
+
+msgid "BitHub Reviews Widget for Google"
+msgstr "BitHub Reviews Widget for Google"
+
+msgid "BitHub Reviews"
+msgstr "BitHub Reviews"
+
+msgid "Working…"
+msgstr "Operazione in corso…"
+
+msgid "Business connected. Configure the widget and save it."
+msgstr "Attività collegata. Configura il widget e salvalo."
+
+msgid "Existing configuration loaded."
+msgstr "Configurazione esistente caricata."
+
+msgid "Widget saved. You can now use the shortcode or block."
+msgstr "Widget salvato. Ora puoi usare lo shortcode o il blocco."
+
+msgid "Reviews refreshed."
+msgstr "Recensioni aggiornate."
+
+msgid "Local connection removed. Remote service data was not deleted."
+msgstr "Collegamento locale rimosso. I dati del servizio remoto non sono stati eliminati."
+
+msgid "Remove the local connection from this WordPress site? The remote BitHub configuration will remain available."
+msgstr "Rimuovere il collegamento locale da questo sito WordPress? La configurazione remota BitHub resterà disponibile."
+
+msgid "Copied!"
+msgstr "Copiato!"
+
+msgid "Something went wrong. Please try again."
+msgstr "Si è verificato un errore. Riprova."
+
+msgid "Please confirm that you understand which data is sent to the BitHub Reviews service."
+msgstr "Conferma di aver compreso quali dati vengono inviati al servizio BitHub Reviews."
+
+msgid "Enter the Google Places API key used for this business."
+msgstr "Inserisci la chiave API Google Places usata per questa attività."
+
+msgid "Enter a Google Maps link or Place ID."
+msgstr "Inserisci un link Google Maps o un Place ID."
+
+msgid "Enter the Google Maps link, email address and Google Places API key."
+msgstr "Inserisci il link Google Maps, l’indirizzo email e la chiave API Google Places."
+
+msgid "Open live widget"
+msgstr "Apri widget online"
+
+msgid "Reviews Widget"
+msgstr "Widget recensioni"
+
+msgid "Google reviews, without copy-pasting embed code."
+msgstr "Recensioni Google, senza copiare e incollare codice embed."
+
+msgid "Connect a business to the BitHub Reviews service, configure the display, then place it anywhere with a shortcode or Gutenberg block."
+msgstr "Collega un’attività al servizio BitHub Reviews, configura la visualizzazione e inseriscila ovunque con uno shortcode o un blocco Gutenberg."
+
+msgid "Plugin documentation"
+msgstr "Documentazione plugin"
+
+msgid "Web configurator"
+msgstr "Configuratore web"
+
+msgid "Privacy"
+msgstr "Privacy"
+
+msgid "Connected widget"
+msgstr "Widget collegato"
+
+msgid "Google Maps business"
+msgstr "Attività Google Maps"
+
+msgid "Disconnect from this site"
+msgstr "Scollega da questo sito"
+
+msgid "Insert it"
+msgstr "Inseriscilo"
+
+msgid "Shortcode or Gutenberg block"
+msgstr "Shortcode o blocco Gutenberg"
+
+msgid "Use the BitHub Reviews Widget block, or copy this shortcode into any page, post or widget area."
+msgstr "Usa il blocco BitHub Reviews Widget oppure copia questo shortcode in qualsiasi pagina, articolo o area widget."
+
+msgid "Copy shortcode"
+msgstr "Copia shortcode"
+
+msgid "Edit remote widget"
+msgstr "Modifica widget remoto"
+
+msgid "Unlock with your Google Places API key"
+msgstr "Sblocca con la tua chiave API Google Places"
+
+msgid "The API key is sent only for this request and is never stored by this WordPress plugin."
+msgstr "La chiave API viene inviata solo per questa richiesta e non viene mai salvata da questo plugin WordPress."
+
+msgid "Google Places API key"
+msgstr "Chiave API Google Places"
+
+msgid "Unlock editor"
+msgstr "Sblocca editor"
+
+msgid "Send management link by email"
+msgstr "Invia link di gestione via email"
+
+msgid "New widget"
+msgstr "Nuovo widget"
+
+msgid "Connect your Google Maps business"
+msgstr "Collega la tua attività Google Maps"
+
+msgid "Use the share link from the correct Google Maps business profile. The BitHub service resolves the Place ID and retrieves the reviews using your Places API key."
+msgstr "Usa il link di condivisione della scheda corretta su Google Maps. Il servizio BitHub risolve il Place ID e recupera le recensioni usando la tua chiave API Places."
+
+msgid "Google Maps business link"
+msgstr "Link dell’attività Google Maps"
+
+msgid "Email address"
+msgstr "Indirizzo email"
+
+msgid "I understand that these setup details are sent to the <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">BitHub Reviews service</a>."
+msgstr "Comprendo che questi dati di configurazione vengono inviati al <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">servizio BitHub Reviews</a>."
+
+msgid "Connect and configure"
+msgstr "Collega e configura"
+
+msgid "Existing widget"
+msgstr "Widget esistente"
+
+msgid "Connect an existing BitHub configuration"
+msgstr "Collega una configurazione BitHub esistente"
+
+msgid "Enter the Place ID or the same Maps URL used when the business was first configured, then unlock it with the original Google Places API key."
+msgstr "Inserisci il Place ID o lo stesso URL Maps usato quando l’attività è stata configurata la prima volta, quindi sbloccala con la chiave API Google Places originale."
+
+msgid "Place ID or Google Maps link"
+msgstr "Place ID o link Google Maps"
+
+msgid "I understand that this request is sent to the <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">BitHub Reviews service</a>."
+msgstr "Comprendo che questa richiesta viene inviata al <a href=\"%1$s\" target=\"_blank\" rel=\"noopener noreferrer\">servizio BitHub Reviews</a>."
+
+msgid "Load existing widget"
+msgstr "Carica widget esistente"
+
+msgid "Widget configuration"
+msgstr "Configurazione widget"
+
+msgid "Reviews widget"
+msgstr "Widget recensioni"
+
+msgid "The management token stays only in this browser page and is not saved in WordPress."
+msgstr "Il token di gestione resta solo in questa pagina del browser e non viene salvato in WordPress."
+
+msgid "Refresh reviews now"
+msgstr "Aggiorna recensioni ora"
+
+msgid "Save widget"
+msgstr "Salva widget"
+
+msgid "Layout and filters"
+msgstr "Layout e filtri"
+
+msgid "Layout"
+msgstr "Layout"
+
+msgid "Slider"
+msgstr "Slider"
+
+msgid "Grid"
+msgstr "Griglia"
+
+msgid "List"
+msgstr "Elenco"
+
+msgid "Rating only"
+msgstr "Solo valutazione"
+
+msgid "Maximum reviews"
+msgstr "Numero massimo di recensioni"
+
+msgid "Minimum rating"
+msgstr "Valutazione minima"
+
+msgid "Responsive visibility"
+msgstr "Visualizzazione responsive"
+
+msgid "Desktop"
+msgstr "Desktop"
+
+msgid "Tablet"
+msgstr "Tablet"
+
+msgid "Mobile"
+msgstr "Mobile"
+
+msgid "Review text"
+msgstr "Testo recensione"
+
+msgid "Show review text"
+msgstr "Mostra testo recensione"
+
+msgid "Maximum text length"
+msgstr "Lunghezza massima testo"
+
+msgid "Show “Read more”"
+msgstr "Mostra “Leggi tutto”"
+
+msgid "Author"
+msgstr "Autore"
+
+msgid "Show author photo"
+msgstr "Mostra foto autore"
+
+msgid "Show author name"
+msgstr "Mostra nome autore"
+
+msgid "Shorten surname"
+msgstr "Abbrevia cognome"
+
+msgid "Header"
+msgstr "Intestazione"
+
+msgid "Show header"
+msgstr "Mostra intestazione"
+
+msgid "Show business name"
+msgstr "Mostra nome attività"
+
+msgid "Show average rating"
+msgstr "Mostra valutazione media"
+
+msgid "Show total review count"
+msgstr "Mostra numero totale recensioni"
+
+msgid "Show “Write a review” button"
+msgstr "Mostra pulsante “Scrivi una recensione”"
+
+msgid "Autoplay"
+msgstr "Riproduzione automatica"
+
+msgid "Autoplay interval (ms)"
+msgstr "Intervallo autoplay (ms)"
+
+msgid "Pause on hover"
+msgstr "Pausa al passaggio del mouse"
+
+msgid "Show arrows"
+msgstr "Mostra frecce"
+
+msgid "Show dots"
+msgstr "Mostra indicatori"
+
+msgid "Transition duration (ms)"
+msgstr "Durata transizione (ms)"
+
+msgid "Appearance"
+msgstr "Aspetto"
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "Automatic"
+msgstr "Automatico"
+
+msgid "Light"
+msgstr "Chiaro"
+
+msgid "Dark"
+msgstr "Scuro"
+
+msgid "Star color"
+msgstr "Colore stelle"
+
+msgid "Text color"
+msgstr "Colore testo"
+
+msgid "Background color"
+msgstr "Colore sfondo"
+
+msgid "Border"
+msgstr "Bordo"
+
+msgid "Shadow"
+msgstr "Ombra"
+
+msgid "Corner radius"
+msgstr "Raggio angoli"
+
+msgid "Ready to publish"
+msgstr "Pronto da pubblicare"
+
+msgid "Add the BitHub Reviews Widget block or use:"
+msgstr "Aggiungi il blocco BitHub Reviews Widget oppure usa:"
+
+msgid "External service disclosure"
+msgstr "Informativa sul servizio esterno"
+
+msgid "This plugin is an interface to the BitHub Reviews service. During setup and management, the service receives the business link or Place ID, email, Google Places API key, language and widget configuration. On public pages containing the widget, the browser loads the widget JavaScript from extractor.able2code.com."
+msgstr "Questo plugin è un’interfaccia al servizio BitHub Reviews. Durante la configurazione e la gestione, il servizio riceve il link dell’attività o il Place ID, l’email, la chiave API Google Places, la lingua e la configurazione del widget. Nelle pagine pubbliche che contengono il widget, il browser carica il JavaScript del widget da extractor.able2code.com."
+
+msgid "Service documentation"
+msgstr "Documentazione servizio"
+
+msgid "BitHub privacy information"
+msgstr "Informativa privacy BitHub"
+
+msgid "Please confirm the external service disclosure."
+msgstr "Conferma l’informativa sul servizio esterno."
+
+msgid "Check the Google Maps link, email address and API key."
+msgstr "Controlla il link Google Maps, l’indirizzo email e la chiave API."
+
+msgid "Enter a Place ID or Maps link and the original Google Places API key."
+msgstr "Inserisci un Place ID o un link Maps e la chiave API Google Places originale."
+
+msgid "No BitHub Reviews configuration was found for that business."
+msgstr "Non è stata trovata alcuna configurazione BitHub Reviews per questa attività."
+
+msgid "The editor session is incomplete. Unlock the widget again and retry."
+msgstr "La sessione dell’editor non è completa. Sblocca di nuovo il widget e riprova."
+
+msgid "The widget identifier is not valid."
+msgstr "L’identificatore del widget non è valido."
+
+msgid "Unlock the widget again before refreshing reviews."
+msgstr "Sblocca di nuovo il widget prima di aggiornare le recensioni."
+
+msgid "No connected business was found."
+msgstr "Nessuna attività collegata trovata."
+
+msgid "You are not allowed to manage this widget."
+msgstr "Non hai i permessi per gestire questo widget."
+
+msgid "This business is already configured in BitHub Reviews. Use the existing-widget form instead."
+msgstr "Questa attività è già configurata in BitHub Reviews. Usa il modulo per widget esistenti."
+
+msgid "No BitHub Reviews configuration was found for this business."
+msgstr "Non è stata trovata alcuna configurazione BitHub Reviews per questa attività."
+
+msgid "The Google Places API key does not match the saved configuration."
+msgstr "La chiave API Google Places non corrisponde alla configurazione salvata."
+
+msgid "The editor session has expired. Unlock the widget again."
+msgstr "La sessione dell’editor è scaduta. Sblocca di nuovo il widget."
+
+msgid "The editor session is missing. Unlock the widget again."
+msgstr "La sessione dell’editor non è disponibile. Sblocca di nuovo il widget."
+
+msgid "The editor session does not belong to this business."
+msgstr "La sessione dell’editor non appartiene a questa attività."
+
+msgid "The remote widget was not found."
+msgstr "Il widget remoto non è stato trovato."
+
+msgid "Email management is temporarily unavailable on the BitHub service."
+msgstr "La gestione via email è temporaneamente non disponibile sul servizio BitHub."
+
+msgid "The management email could not be sent. Please try again later."
+msgstr "Non è stato possibile inviare l’email di gestione. Riprova più tardi."
+
